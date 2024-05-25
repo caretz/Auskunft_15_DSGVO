@@ -1,0 +1,17 @@
+Ich ersuche Sie um vollständige Auskunft gemäß Art. 15 DSGVO. Sie mögen mir insbesondere und mindestens in Textform beauskunften, welche Daten und Datenkategorien zu meiner Person verarbeitet werden, an wen diese Daten übermittelt wurden, und zu welchen Zwecken diese Daten verarbeitet werden. Außerdem mögen Sie mir im Detail beauskunften, zu welchem Zeitpunkt und von welcher Stelle Sie diese Daten erhalten haben und in welcher Form und für welche Verarbeitungs- und Verwendungszwecke ich eine Einwilligung zur Nutzung meiner personenbezogenen Daten erteilt habe bzw. auf welche anderen Rechtsgrundlagen Sie die jeweilige Verarbeitung stützen.
+
+Zur eindeutigen Identifizierung dürfen Ihnen folgende Daten dienen:
+
+<Vorname Name> (geb. am <Datum>)
+<Straße und Hausnummer>
+<PLZ Ort>
+
+Telefon: <Nummer>
+
+E-Mail: <E-Mail-Adresse>
+
+<weitere Daten, wie zB Browser-ID...>
+
+Als Frist zur Auskunftserteilung habe ich mir den <heute in 1 Monat> vermerkt. Sollte diese Frist fruchtlos verstreichen, ergeht unverzüglich eine Beschwerde an die für Sie zuständige Datenschutzaufsichtsbehörde.
+
+Freundliche Grüße
